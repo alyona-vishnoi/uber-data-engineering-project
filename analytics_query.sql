@@ -1,6 +1,5 @@
 CREATE OR REPLACE TABLE `datawithalyona.uber_de.tbl_analytics` AS (
 SELECT 
-f.trip_id
 f.VendorID,
 d.tpep_pickup_datetime,
 d.tpep_dropoff_datetime,
