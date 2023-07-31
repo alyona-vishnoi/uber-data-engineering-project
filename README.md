@@ -1,5 +1,4 @@
 # Uber Data Analytics | Data Engineering GCP Project
---
 
 The goal of this project is to perform data analytics on Uber data using various tools and technologies, including GCP Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker Studio.
 --
@@ -24,5 +23,4 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 
 ## Dashboard Link:
---
 https://lookerstudio.google.com/reporting/82b670c4-ffd5-471d-9733-ab6b888ae53b
