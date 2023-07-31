@@ -21,7 +21,6 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 - Website: https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page
 - Data Dictionary: https://www.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_yellow.pdf
-
 --
 
 Dashboard Link: https://lookerstudio.google.com/reporting/82b670c4-ffd5-471d-9733-ab6b888ae53b
