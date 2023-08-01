@@ -8,7 +8,7 @@ Programming Language:
 
 Google Cloud Platform:
 - Google Storage
-- Compute Instance
+- Compute Engine
 - BigQuery
 - Looker Studio
 
